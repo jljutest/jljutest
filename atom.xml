@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>罗十八</title>
+  
+  <subtitle>世界的某个角落</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-14T05:39:38.782Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>hilence</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/test.html"/>
+    <id>http://yoursite.com/test.html</id>
+    <published>2018-03-13T16:21:24.000Z</published>
+    <updated>2018-03-14T05:39:38.782Z</updated>
+    
+    <content type="html"><![CDATA[<input type="button" value="forsaken-mail" onclick="javascrtpt:window.location.href='http://mail.hilence.me'"><p><a href="http://mail.hilence.me" target="frame1">forsaken-mail</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;input type=&quot;button&quot; value=&quot;forsaken-mail&quot; onclick=&quot;javascrtpt:window.location.href=&#39;http://mail.hilence.me&#39;&quot;&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://mail.hi
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>加密测试</title>
+    <link href="http://yoursite.com/3.html"/>
+    <id>http://yoursite.com/3.html</id>
+    <published>2018-03-11T05:28:58.000Z</published>
+    <updated>2018-03-13T12:04:18.596Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：</p><a id="more"></a><hr><h2 id="第一种插入图片方式"><a href="#第一种插入图片方式" class="headerlink" title="第一种插入图片方式"></a>第一种插入图片方式</h2><p><img src="http://i.miaosu.bid/data/f_34792404.jpg"></p><hr><h2 id="第二种HTML调用："><a href="#第二种HTML调用：" class="headerlink" title="第二种HTML调用："></a>第二种HTML调用：</h2><p><img src="http://p4.cdn.img9.top/ipfs/QmUD8FSFpvibDt41wab9PLpR7cRJ5Dx3pzhtC7ezpJSJYZ?4.jpg" alt="QmUD8FSFpvibDt41wab9PLpR7cRJ5Dx3pzhtC7ezpJSJYZ?4.jpg"></p><hr><h2 id="第三种Markdown调用"><a href="#第三种Markdown调用" class="headerlink" title="第三种Markdown调用:"></a>第三种Markdown调用:</h2><p><img src="http://i.miaosu.bid/data/f_34792404.jpg" alt="f_34792404.jpg"><br><img src="https://avatars2.githubusercontent.com/u/3265208?v=3&amp;s=100" alt="" title="GitHub,Social Coding"></p><hr><h2 id="指定图片的显示大小"><a href="#指定图片的显示大小" class="headerlink" title="指定图片的显示大小"></a>指定图片的显示大小</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50"></h2><hr><blockquote class="blockquote-center"><p>这样引用</p></blockquote><p>这样用<em>斜体</em><br>强调<strong>国家</strong>这个词<br><del>这样用删除线</del><br>这样用来展示代码块<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">window.addEventListener(&apos;load&apos;, function() &#123;</span><br><span class="line">  console.log(&apos;window loaded&apos;);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></p><p>这样用来使代码高亮<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">window</span>.addEventListener(<span class="string">'load'</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">  <span class="built_in">console</span>.log(<span class="string">'window loaded'</span>);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></p><table><thead><tr><th style="text-align:left">名字（左对齐）</th><th style="text-align:center">科目（居中）</th><th style="text-align:right">成绩（右对齐）</th></tr></thead><tbody><tr><td style="text-align:left">张三</td><td style="text-align:center">高速</td><td style="text-align:right">60</td></tr><tr><td style="text-align:left">李四</td><td style="text-align:center">大学物理</td><td style="text-align:right">56.5</td></tr><tr><td style="text-align:left">王五</td><td style="text-align:center">C语言</td><td style="text-align:right">100.0</td></tr></tbody></table><ul><li style="list-style: none"><input type="checkbox"> Eat</li><li style="list-style: none"><input type="checkbox" checked> Code<ul><li style="list-style: none"><input type="checkbox" checked> HTML</li><li style="list-style: none"><input type="checkbox" checked> CSS</li><li style="list-style: none"><input type="checkbox" checked> JavaScript</li></ul></li><li style="list-style: none"><input type="checkbox"> Sleep<br>[ ] Eat</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="http://yoursite.com/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乡愁</title>
+    <link href="http://yoursite.com/2.html"/>
+    <id>http://yoursite.com/2.html</id>
+    <published>2018-03-10T14:28:11.000Z</published>
+    <updated>2018-03-12T15:29:42.193Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：测试<br><a id="more"></a></p><h2 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h2><p>小时候，<br>乡愁是一枚小小的邮票，<br>我在这头，<br>母亲在那头。<br>长大后，<br>乡愁是一张窄窄的船票，<br>我在这头，<br>新娘在那头。<br>后来啊，<br>乡愁是一方矮矮的坟墓，<br>我在外头，<br>母亲在里头。<br>而现在，<br>乡愁是一湾浅浅的海峡，<br>我在这头，<br>大陆在那头。<br>作者：<a href="https://baike.baidu.com/item/%E4%BD%99%E5%85%89%E4%B8%AD/174507?fr=aladdin" target="_blank" rel="noopener">余光中</a></p><hr><h2 id="英文译文"><a href="#英文译文" class="headerlink" title="英文译文"></a>英文译文</h2><p>When I was young,<br>my homesickness was a small stamp,<br>I was here,<br>my mother was there.<br>After growing up,<br>my homesickness was a narrow ticket,<br>I was here,<br>my bride was there.<br>Later,<br>my homesickness was a little tomb,<br>I was outside,<br>my mother was inside.<br>And now,<br>my homesickness is a shallow strait,<br>I am here,<br>the mainland is there.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：测试&lt;br&gt;
+    
+    </summary>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="二级目录" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="划水" scheme="http://yoursite.com/tags/%E5%88%92%E6%B0%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>明天，你好</title>
+    <link href="http://yoursite.com/1.html"/>
+    <id>http://yoursite.com/1.html</id>
+    <published>2018-03-09T12:20:14.000Z</published>
+    <updated>2018-03-10T14:34:17.675Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：测试<br><a id="more"></a><br>正文：<br>面朝大海，春暖花开</p><p>从明天起，做一个幸福的人<br>喂马、劈柴，周游世界<br>从明天起，关心粮食和蔬菜<br>我又一所房子，面朝大话，春暖花开</p><p>从明天起，和每一个亲人通信<br>告诉他们我的幸福<br>那幸福的闪电告诉我的<br>我将告诉每一个人</p><p>给每一条河每一座山取一个温暖的名字<br>陌生人，我也为你祝福<br>愿你有一个灿烂的前程<br>愿你有情人终成眷属<br>愿你在尘世获得幸福<br>我只愿面朝大海，春暖花开</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：测试&lt;br&gt;
+    
+    </summary>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="二级目录" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="现代诗" scheme="http://yoursite.com/tags/%E7%8E%B0%E4%BB%A3%E8%AF%97/"/>
+    
+  </entry>
+  
+</feed>
