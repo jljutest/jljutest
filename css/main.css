@@ -1713,6 +1713,7 @@ pre .javascript .function {
   z-index: 1050;
   cursor: pointer;
   -webkit-transform: translateZ(0);
+  opacity: 0.8;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar-toggle {
@@ -1826,7 +1827,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fb3832;
+  background: #a665e3;
 }
 .links-of-blogroll {
   font-size: 13px;
