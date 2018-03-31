@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>罗十八</title>
+  <title>世界の某个角落</title>
   
-  <subtitle>世界的某个角落</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-19T08:10:52.883Z</updated>
+  <updated>2018-03-20T12:59:48.782Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/3.html"/>
     <id>http://yoursite.com/3.html</id>
     <published>2018-03-11T05:28:58.000Z</published>
-    <updated>2018-03-19T08:10:52.883Z</updated>
+    <updated>2018-03-20T12:59:48.782Z</updated>
     
     <content type="html"><![CDATA[<p>摘要：</p><a id="more"></a><hr><h2 id="第一种插入图片方式"><a href="#第一种插入图片方式" class="headerlink" title="第一种插入图片方式"></a>第一种插入图片方式</h2><p><img src="http://i.miaosu.bid/data/f_34792404.jpg"></p><hr><h2 id="第二种HTML调用："><a href="#第二种HTML调用：" class="headerlink" title="第二种HTML调用："></a>第二种HTML调用：</h2><p><img src="http://p4.cdn.img9.top/ipfs/QmUD8FSFpvibDt41wab9PLpR7cRJ5Dx3pzhtC7ezpJSJYZ?4.jpg" alt="QmUD8FSFpvibDt41wab9PLpR7cRJ5Dx3pzhtC7ezpJSJYZ?4.jpg"></p><hr><h2 id="第三种Markdown调用"><a href="#第三种Markdown调用" class="headerlink" title="第三种Markdown调用:"></a>第三种Markdown调用:</h2><p><img src="http://i.miaosu.bid/data/f_34792404.jpg" alt="f_34792404.jpg"><br><img src="https://avatars2.githubusercontent.com/u/3265208?v=3&amp;s=100" alt="" title="GitHub,Social Coding"></p><hr><h2 id="指定图片的显示大小"><a href="#指定图片的显示大小" class="headerlink" title="指定图片的显示大小"></a>指定图片的显示大小</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50"></h2><hr><blockquote class="blockquote-center"><p>这样引用</p></blockquote><p>这样用<em>斜体</em><br>强调<strong>国家</strong>这个词<br><del>这样用删除线</del><br>这样用来展示代码块<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">window.addEventListener(&apos;load&apos;, function() &#123;</span><br><span class="line">  console.log(&apos;window loaded&apos;);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></p><p>这样用来使代码高亮<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">window</span>.addEventListener(<span class="string">'load'</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">  <span class="built_in">console</span>.log(<span class="string">'window loaded'</span>);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></p><table><thead><tr><th style="text-align:left">名字（左对齐）</th><th style="text-align:center">科目（居中）</th><th style="text-align:right">成绩（右对齐）</th></tr></thead><tbody><tr><td style="text-align:left">张三</td><td style="text-align:center">高速</td><td style="text-align:right">60</td></tr><tr><td style="text-align:left">李四</td><td style="text-align:center">大学物理</td><td style="text-align:right">56.5</td></tr><tr><td style="text-align:left">王五</td><td style="text-align:center">C语言</td><td style="text-align:right">100.0</td></tr></tbody></table><ul><li style="list-style: none"><input type="checkbox"> Eat</li><li style="list-style: none"><input type="checkbox" checked> Code<ul><li style="list-style: none"><input type="checkbox" checked> HTML</li><li style="list-style: none"><input type="checkbox" checked> CSS</li><li style="list-style: none"><input type="checkbox" checked> JavaScript</li></ul></li><li style="list-style: none"><input type="checkbox"> Sleep<br>[ ] Eat</li></ul>]]></content>
     
@@ -65,7 +65,7 @@
     <link href="http://yoursite.com/1.html"/>
     <id>http://yoursite.com/1.html</id>
     <published>2018-03-09T12:20:14.000Z</published>
-    <updated>2018-03-10T14:34:17.675Z</updated>
+    <updated>2018-03-31T15:39:00.187Z</updated>
     
     <content type="html"><![CDATA[<p>摘要：测试<br><a id="more"></a><br>正文：<br>面朝大海，春暖花开</p><p>从明天起，做一个幸福的人<br>喂马、劈柴，周游世界<br>从明天起，关心粮食和蔬菜<br>我又一所房子，面朝大话，春暖花开</p><p>从明天起，和每一个亲人通信<br>告诉他们我的幸福<br>那幸福的闪电告诉我的<br>我将告诉每一个人</p><p>给每一条河每一座山取一个温暖的名字<br>陌生人，我也为你祝福<br>愿你有一个灿烂的前程<br>愿你有情人终成眷属<br>愿你在尘世获得幸福<br>我只愿面朝大海，春暖花开</p>]]></content>
     
