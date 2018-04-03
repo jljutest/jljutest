@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-20T12:59:48.782Z</updated>
+  <updated>2018-04-03T14:14:19.611Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/test.html"/>
+    <id>http://yoursite.com/test.html</id>
+    <published>2018-04-03T14:10:21.000Z</published>
+    <updated>2018-04-03T14:14:19.611Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：测试<br><a id="more"></a><br>问题：假如ssh-key配置失败，那么只要以下步骤就能完全解决</p><p>首先，清除所有的key-pair<br>ssh-add -D<br>rm -r ~/.ssh<br>删除你在github中的public-key</p><p>重新生成ssh密钥对<br>ssh-keygen -t rsa -C “<a href="mailto:xxx@xxx.com" target="_blank" rel="noopener">xxx@xxx.com</a>“</p><p>接下来正常操作<br>在github上添加公钥public-key:<br>1、首先在你的终端运行 xclip -sel c ~/.ssh/id_rsa.pub将公钥内容复制到剪切板<br>2、在github上添加公钥时，直接复制即可<br>3、保存</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：测试&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>加密测试</title>
