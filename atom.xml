@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/test.html"/>
-    <id>http://yoursite.com/test.html</id>
+    <link href="http://yoursite.com/post/test.html"/>
+    <id>http://yoursite.com/post/test.html</id>
     <published>2018-04-03T14:10:21.000Z</published>
     <updated>2018-04-03T14:14:19.611Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>加密测试</title>
-    <link href="http://yoursite.com/3.html"/>
-    <id>http://yoursite.com/3.html</id>
+    <link href="http://yoursite.com/post/3.html"/>
+    <id>http://yoursite.com/post/3.html</id>
     <published>2018-03-11T05:28:58.000Z</published>
     <updated>2018-03-20T12:59:48.782Z</updated>
     
@@ -56,8 +56,8 @@
   
   <entry>
     <title>乡愁</title>
-    <link href="http://yoursite.com/2.html"/>
-    <id>http://yoursite.com/2.html</id>
+    <link href="http://yoursite.com/post/2.html"/>
+    <id>http://yoursite.com/post/2.html</id>
     <published>2018-03-10T14:28:11.000Z</published>
     <updated>2018-03-12T15:29:42.193Z</updated>
     
@@ -80,8 +80,8 @@
   
   <entry>
     <title>明天，你好</title>
-    <link href="http://yoursite.com/1.html"/>
-    <id>http://yoursite.com/1.html</id>
+    <link href="http://yoursite.com/post/1.html"/>
+    <id>http://yoursite.com/post/1.html</id>
     <published>2018-03-09T12:20:14.000Z</published>
     <updated>2018-03-31T15:39:00.187Z</updated>
     
